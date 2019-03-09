@@ -1,0 +1,2400 @@
+fileFormatVersion: 2
+guid: ef0f0b71112b14640bea91cf0a532bbe
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CharacterSpritesheet
+    21300002: air-attack1-adventurer-air-attack1-00
+    21300004: air-attack1-adventurer-air-attack1-01
+    21300006: air-attack1-adventurer-air-attack1-02
+    21300008: air-attack1-adventurer-air-attack1-03
+    21300010: air-attack2-adventurer-air-attack2-00
+    21300012: air-attack2-adventurer-air-attack2-01
+    21300014: air-attack2-adventurer-air-attack2-02
+    21300016: air-attack3-end-adventurer-air-attack-3-end-00
+    21300018: air-attack3-end-adventurer-air-attack-3-end-01
+    21300020: air-attack3-end-adventurer-air-attack-3-end-02
+    21300022: air-attack3-loop-adventurer-air-attack3-loop-00
+    21300024: air-attack3-loop-adventurer-air-attack3-loop-01
+    21300026: air-attack3-rdy-adventurer-air-attack3-rdy-00
+    21300028: attack1-adventurer-attack1-00
+    21300030: attack1-adventurer-attack1-01
+    21300032: attack1-adventurer-attack1-02
+    21300034: attack1-adventurer-attack1-03
+    21300036: attack1-adventurer-attack1-04
+    21300038: attack2-adventurer-attack2-00
+    21300040: attack2-adventurer-attack2-01
+    21300042: attack2-adventurer-attack2-02
+    21300044: attack2-adventurer-attack2-03
+    21300046: attack2-adventurer-attack2-04
+    21300048: attack2-adventurer-attack2-05
+    21300050: attack3-adventurer-attack3-00
+    21300052: attack3-adventurer-attack3-01
+    21300054: attack3-adventurer-attack3-02
+    21300056: attack3-adventurer-attack3-03
+    21300058: attack3-adventurer-attack3-04
+    21300060: attack3-adventurer-attack3-05
+    21300062: cast-loop-adventurer-cast-loop-00
+    21300064: cast-loop-adventurer-cast-loop-01
+    21300066: cast-loop-adventurer-cast-loop-02
+    21300068: cast-loop-adventurer-cast-loop-03
+    21300070: cast-adventurer-cast-00
+    21300072: cast-adventurer-cast-01
+    21300074: cast-adventurer-cast-02
+    21300076: cast-adventurer-cast-03
+    21300078: crnr-clmb-adventurer-crnr-clmb-00
+    21300080: crnr-clmb-adventurer-crnr-clmb-01
+    21300082: crnr-clmb-adventurer-crnr-clmb-02
+    21300084: crnr-clmb-adventurer-crnr-clmb-03
+    21300086: crnr-clmb-adventurer-crnr-clmb-04
+    21300088: crnr-grb-adventurer-crnr-grb-00
+    21300090: crnr-grb-adventurer-crnr-grb-01
+    21300092: crnr-grb-adventurer-crnr-grb-02
+    21300094: crnr-grb-adventurer-crnr-grb-03
+    21300096: crnr-jmp-adventurer-crnr-jmp-00
+    21300098: crnr-jmp-adventurer-crnr-jmp-01
+    21300100: crouch-adventurer-crouch-00
+    21300102: crouch-adventurer-crouch-01
+    21300104: crouch-adventurer-crouch-02
+    21300106: crouch-adventurer-crouch-03
+    21300108: die-adventurer-die-00
+    21300110: die-adventurer-die-01
+    21300112: die-adventurer-die-02
+    21300114: die-adventurer-die-03
+    21300116: die-adventurer-die-04
+    21300118: die-adventurer-die-05
+    21300120: die-adventurer-die-06
+    21300122: fall-adventurer-fall-00
+    21300124: fall-adventurer-fall-01
+    21300126: hurt-adventurer-hurt-00
+    21300128: hurt-adventurer-hurt-01
+    21300130: hurt-adventurer-hurt-02
+    21300132: idle-adventurer-idle-00
+    21300134: idle-adventurer-idle-01
+    21300136: idle-adventurer-idle-02
+    21300138: idle-adventurer-idle-03
+    21300140: idle2-adventurer-idle-2-00
+    21300142: idle2-adventurer-idle-2-01
+    21300144: idle2-adventurer-idle-2-02
+    21300146: idle2-adventurer-idle-2-03
+    21300148: items-adventurer-items-00
+    21300150: items-adventurer-items-01
+    21300152: items-adventurer-items-02
+    21300154: jump-adventurer-jump-00
+    21300156: jump-adventurer-jump-01
+    21300158: jump-adventurer-jump-02
+    21300160: jump-adventurer-jump-03
+    21300162: ladder-climb-adventurer-ladder-climb-00
+    21300164: ladder-climb-adventurer-ladder-climb-01
+    21300166: ladder-climb-adventurer-ladder-climb-02
+    21300168: ladder-climb-adventurer-ladder-climb-03
+    21300170: run-adventurer-run-00
+    21300172: run-adventurer-run-01
+    21300174: run-adventurer-run-02
+    21300176: run-adventurer-run-03
+    21300178: run-adventurer-run-04
+    21300180: run-adventurer-run-05
+    21300182: slide-adventurer-slide-00
+    21300184: slide-adventurer-slide-01
+    21300186: smrslt-adventurer-smrslt-00
+    21300188: smrslt-adventurer-smrslt-01
+    21300190: smrslt-adventurer-smrslt-02
+    21300192: smrslt-adventurer-smrslt-03
+    21300194: stand-adventurer-stand-00
+    21300196: stand-adventurer-stand-01
+    21300198: stand-adventurer-stand-02
+    21300200: swrd-drw-adventurer-swrd-drw-00
+    21300202: swrd-drw-adventurer-swrd-drw-01
+    21300204: swrd-drw-adventurer-swrd-drw-02
+    21300206: swrd-drw-adventurer-swrd-drw-03
+    21300208: swrd-shte-adventurer-swrd-shte-00
+    21300210: swrd-shte-adventurer-swrd-shte-01
+    21300212: swrd-shte-adventurer-swrd-shte-02
+    21300214: swrd-shte-adventurer-swrd-shte-03
+    21300216: wall-slide-adventurer-wall-slide-00
+    21300218: wall-slide-adventurer-wall-slide-01
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: air-attack1-adventurer-air-attack1-00
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 316
+        width: 23
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.5441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea91f3ac03e628c4398eb84ea120385d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: air-attack1-adventurer-air-attack1-01
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 480
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.515625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2af961ebbcb386429553b7f34c52433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: air-attack1-adventurer-air-attack1-02
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 480
+        width: 44
+        height: 32
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.484375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3291d88ce6424fb4ab15aecf9ca67037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: air-attack1-adventurer-air-attack1-03
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 478
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.7241379, y: 0.45588234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe52ab0331266346a423920bdc4f76a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: air-attack2-adventurer-air-attack2-00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.30555555, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78ae6258af226342a6b367b0981de93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: air-attack2-adventurer-air-attack2-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 38
+        height: 37
+      alignment: 9
+      pivot: {x: 0.55263156, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b814d7234fa8b6c40b3ed2a097405e19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: air-attack2-adventurer-air-attack2-02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 18
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.5535714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e1b2f824f0e0841aa87b613b9df9eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: air-attack3-end-adventurer-air-attack-3-end-00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3169198d22183478abd6b570ddcca3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: air-attack3-end-adventurer-air-attack-3-end-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 49
+        height: 34
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.5441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f2c92e9749b3a46a209d55418020ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: air-attack3-end-adventurer-air-attack-3-end-02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 381
+        width: 49
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.6166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e3dbae4d3798e44bac395661012e21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: air-attack3-loop-adventurer-air-attack3-loop-00
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.62068963, y: 0.484375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabd15aa3778a0e448ec692db3389f57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: air-attack3-loop-adventurer-air-attack3-loop-01
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 477
+        width: 29
+        height: 35
+      alignment: 9
+      pivot: {x: 0.62068963, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a31c5a1ad99df4f9d90f759f15394e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: air-attack3-rdy-adventurer-air-attack3-rdy-00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.64705884, y: 0.43939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a526547fce17ab458781bf01920b003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-adventurer-attack1-00
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 450
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.5967742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60c84e73ee3df442ada5592a30ee854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-adventurer-attack1-01
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 369
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.66071427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69040079c0bc914d81bd9f5e0d839c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-adventurer-attack1-02
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 443
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3243243, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c958b63527f96469355f7f9bef197a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-adventurer-attack1-03
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 406
+        width: 30
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0118526651c17047be9afbc3445a0cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-adventurer-attack1-04
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 362
+        width: 21
+        height: 34
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.5441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679f3aefa2cf2144c8e4753874672674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack2-adventurer-attack2-00
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 200
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.55, y: 0.66071427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8070eeda12c17234ab4a0867a2102403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack2-adventurer-attack2-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.55, y: 0.63793105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349cecb2bd8e67e469d267f944c50d84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack2-adventurer-attack2-02
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 305
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.63793105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae06619b4bfbbc44b8ae52e62ae396f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack2-adventurer-attack2-03
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 446
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.425, y: 0.5441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c9bb5ea0008d6469126d583d9990c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack2-adventurer-attack2-04
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 428
+        width: 35
+        height: 26
+      alignment: 9
+      pivot: {x: 0.71428573, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86606747d9766de45a59a32209ddd8b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack2-adventurer-attack2-05
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 416
+        width: 34
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7352941, y: 0.6166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e0d93da7b5a2a469c6b1e2966165d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3-adventurer-attack3-00
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 256
+        width: 22
+        height: 28
+      alignment: 9
+      pivot: {x: 0.3181818, y: 0.66071427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b284b590cc9c7148937d4be98f36cea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3-adventurer-attack3-01
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 297
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.26923078, y: 0.5967742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22d79c94290e37419ebcebf3eaf1843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3-adventurer-attack3-02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 50
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d3b7f9775ffda44af0687a2df2c00a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3-adventurer-attack3-03
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 335
+        width: 33
+        height: 21
+      alignment: 9
+      pivot: {x: 0.6969697, y: 0.88095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0996dbcc6f28c6c4aae4f5c1ee71b809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3-adventurer-attack3-04
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 356
+        width: 35
+        height: 22
+      alignment: 9
+      pivot: {x: 0.71428573, y: 0.84090906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b863b79a7d564f4abc5e7c95a4d123e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3-adventurer-attack3-05
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 380
+        width: 35
+        height: 22
+      alignment: 9
+      pivot: {x: 0.71428573, y: 0.84090906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086ea19e190cd404aa4e37fa4f2dee2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cast-loop-adventurer-cast-loop-00
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 419
+        width: 29
+        height: 26
+      alignment: 9
+      pivot: {x: 0.37931034, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc450a9bc6306443a1d693d442ee703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cast-loop-adventurer-cast-loop-01
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 402
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.41935483, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0417ecf56ec24be4584f680b42b1f6bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cast-loop-adventurer-cast-loop-02
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 419
+        width: 29
+        height: 26
+      alignment: 9
+      pivot: {x: 0.37931034, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517cbb66b2f282a4d954f026b5ba10e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cast-loop-adventurer-cast-loop-03
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 402
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.41935483, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83e847927ebb8a4aa0de4841d249f08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cast-adventurer-cast-00
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 340
+        width: 23
+        height: 28
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.66071427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728ec36122fd7404394c95376ff4e362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cast-adventurer-cast-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 20
+        height: 27
+      alignment: 9
+      pivot: {x: 0.55, y: 0.6851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f2126b930e8664ebd8c842f9295307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cast-adventurer-cast-02
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 120
+        width: 19
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.6851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c07c8a508b9494fb6fec2d2770242a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cast-adventurer-cast-03
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 317
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.34375, y: 0.6851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481e98ea8cd343a4388a89b63da4a438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crnr-clmb-adventurer-crnr-clmb-00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 18
+        height: 31
+      alignment: 9
+      pivot: {x: 0.2777778, y: 0.5645161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500477348e850844597efbfa78ebbf72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crnr-clmb-adventurer-crnr-clmb-01
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 151
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.5535714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6711375c015eea647b55994c2638b84e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crnr-clmb-adventurer-crnr-clmb-02
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 237
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0.3529412, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6473c149a6ca5834190db3564b23122f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crnr-clmb-adventurer-crnr-clmb-03
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 73
+        width: 16
+        height: 26
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.48076922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56133ca199282c4ca36f658747595a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crnr-clmb-adventurer-crnr-clmb-04
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 232
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.48076922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9b37807afd7224b8bd4656facc10f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crnr-grb-adventurer-crnr-grb-00
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 334
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.5285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9879e61db5f554b91109ac550268d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crnr-grb-adventurer-crnr-grb-01
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 260
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.5285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4cc8473d8e7d84b89798142347f1b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crnr-grb-adventurer-crnr-grb-02
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 300
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3529412, y: 0.5285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0679d73fbd37c4d94cf2bf55641687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crnr-grb-adventurer-crnr-grb-03
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 256
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.5285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b8e09b9dd6f9e459478094f4bae56e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crnr-jmp-adventurer-crnr-jmp-00
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 445
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.36, y: 0.5967742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132bacf3689eb1b46aff32921f8b6844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crnr-jmp-adventurer-crnr-jmp-01
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 284
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.36, y: 0.56060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e594b155957f34fa5a2122e3a66d12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch-adventurer-crouch-00
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 233
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.8043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2ea55d424fd8343ad97a7918f3b91a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch-adventurer-crouch-01
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 72
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7708333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8d21a5bb8b7f948a1955996b02471a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch-adventurer-crouch-02
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 29
+        width: 21
+        height: 24
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.7708333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4799b4939985bc649a729aeade045622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch-adventurer-crouch-03
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 99
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.8043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea06e514723e80a4fbdeb701dfe5aafc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die-adventurer-die-00
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 230
+        width: 23
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0c1682a85e11c48bb682cd6cf05486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die-adventurer-die-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c37e74b596dac4f9c9ddebb66364d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die-adventurer-die-02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8b11ee4442f5a469440b041b333e87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die-adventurer-die-03
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 225
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.7708333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982d2a5331a38e744a1b46c0a6bb3fbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die-adventurer-die-04
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 371
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4189c12d7f2534aa92cf5de6f9573b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die-adventurer-die-05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 247
+        width: 17
+        height: 19
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.9736842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6202f9c0aaa0f34428c193efb29d516d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die-adventurer-die-06
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 371
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034c5eaa20a1ddd4cb76d3dfa3c64eac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall-adventurer-fall-00
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 290
+        width: 19
+        height: 34
+      alignment: 9
+      pivot: {x: 0.42105263, y: 0.45588234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61077f82471076448940daa71aa4962c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall-adventurer-fall-01
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 302
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42105263, y: 0.46969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644941a61a4c91d4cbf5165558f00685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt-adventurer-hurt-00
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 230
+        width: 23
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c212582db3b30be4484aa3cde5dc879c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt-adventurer-hurt-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14166c7a4065ff24c8f3e38aa25f6d9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt-adventurer-hurt-02
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 173
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e465d8d4bb37194fbbb45f56991a952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-adventurer-idle-00
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 325
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5967742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d17d83e0c94714f908628ce9af402b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-adventurer-idle-01
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 258
+        width: 19
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.578125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceec0830f18c8441a6cb7775c3f1b93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-adventurer-idle-02
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 346
+        width: 21
+        height: 34
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.5441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ece1bc2c5f58624c94f67bd4dbe37e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-adventurer-idle-03
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 356
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.56060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50c6c1823d31bd4f9529578afda81b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle2-adventurer-idle-2-00
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 380
+        width: 27
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.5138889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10be76592cda254a9b66d0f398083d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle2-adventurer-idle-2-01
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 317
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.64, y: 0.63793105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde5b127fab0c6048b4bafa3a8d4321e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle2-adventurer-idle-2-02
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 350
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0.6296296, y: 0.6166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fe87e8a305c514dac2b3596c3159c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle2-adventurer-idle-2-03
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 344
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.5138889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2d542735d102843b31d1e34a23c8bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-adventurer-items-00
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 147
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.45, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06a115d423c9be439e3c0c1bab796cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-adventurer-items-01
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 279
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.6851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15078c4e378c1142b3d268db35ffb90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-adventurer-items-02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 21
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.66071427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab106accae0b33741aef082dacac15a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-adventurer-jump-00
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 249
+        width: 22
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0747e88df963364a862ba20b2865f97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-adventurer-jump-01
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 96
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7708333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513f0cb5f93ede04193f77ab4fc66a15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-adventurer-jump-02
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 263
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.5689655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85445af71b285546ab1e216e1f42c1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-adventurer-jump-03
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 275
+        width: 24
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de60882df10d9c4a9bfdc170bb5d09b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladder-climb-adventurer-ladder-climb-00
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 445
+        width: 20
+        height: 35
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ea47b8f517b9244afaa4a38f77b533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladder-climb-adventurer-ladder-climb-01
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 220
+        width: 15
+        height: 29
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a1bdb1a9a83204ebc3ab43d0c0a073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladder-climb-adventurer-ladder-climb-02
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 266
+        width: 16
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a83a783a813d54da196046d6d62421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladder-climb-adventurer-ladder-climb-03
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 122
+        width: 15
+        height: 29
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e5400a3788d69409c54c2a8c0f9e77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-adventurer-run-00
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 295
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.578125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d937f3e928fc8458e66d818eee7235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-adventurer-run-01
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 476
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44, y: 0.5138889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56a0c984fbf34e48bbf9e082d087f23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-adventurer-run-02
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 278
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.6851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3692c929c438a60439b203039e7060ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-adventurer-run-03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 389
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.36, y: 0.6166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca10d168231a934686c69cb0e29aa80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-adventurer-run-04
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 368
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.63793105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f752f93018caef4f980c6321ecf02b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-adventurer-run-05
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 416
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.39285713, y: 0.5441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8b459d8a5bfd84b978e611364fd96b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slide-adventurer-slide-00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 38
+        height: 22
+      alignment: 9
+      pivot: {x: 0.6052632, y: 0.84090906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc91f61a436b624ca308aead7a0f76d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slide-adventurer-slide-01
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 459
+        width: 43
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5813953, y: 1.0277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cca4263f6336944bf4376c9537968e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smrslt-adventurer-smrslt-00
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 6
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd080bfd6e617af49aed02feff02b1f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smrslt-adventurer-smrslt-01
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 53
+        width: 26
+        height: 19
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eea8658aa374d1449c9117932d9d6f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smrslt-adventurer-smrslt-02
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 233
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc55e77611bdb54a9cfaa4e12355990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smrslt-adventurer-smrslt-03
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 206
+        width: 28
+        height: 19
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.65789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cadc07228c1b0347b9130870cfa1b57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand-adventurer-stand-00
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 397
+        width: 36
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5833333, y: 1.0277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef40f19a99474d4fa0b71f19461cd60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand-adventurer-stand-01
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 306
+        width: 32
+        height: 19
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.9736842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45b7b87ab0e47c41ad04e7469d6238a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand-adventurer-stand-02
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 292
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14639966576225848b706140a798d743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swrd-drw-adventurer-swrd-drw-00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 20
+        height: 27
+      alignment: 9
+      pivot: {x: 0.55, y: 0.6851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e43a33a0dbb3d45b86d4215e7c6f7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swrd-drw-adventurer-swrd-drw-01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.55, y: 0.66071427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5070a7aa029c63e4ab26191601f23fb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swrd-drw-adventurer-swrd-drw-02
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 396
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.578125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1977794c878418a4ebe2323e1554ce44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swrd-drw-adventurer-swrd-drw-03
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 340
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.7037037, y: 0.5967742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c651b02af7812f045b31feeb65d7da1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swrd-shte-adventurer-swrd-shte-00
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 340
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.7037037, y: 0.5967742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b766c18f871ac40b8d1f631475cf39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swrd-shte-adventurer-swrd-shte-01
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 324
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.56, y: 0.578125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48db17d965407534ead291194257b8f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swrd-shte-adventurer-swrd-shte-02
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 274
+        width: 22
+        height: 28
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.66071427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eb6fa755bdd4c4baba5cbc7fdab678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swrd-shte-adventurer-swrd-shte-03
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 179
+        width: 19
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.6851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fba949aea0c574abefd0ec596a0feb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-slide-adventurer-wall-slide-00
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 423
+        width: 20
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5138889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f4f55a00d567c40961ddd84cef3028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-slide-adventurer-wall-slide-01
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 379
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45c456d7d526854db3d2620a89f7e90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 54a3f4f9b0de3e042aeaa3bc32fdeca6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
